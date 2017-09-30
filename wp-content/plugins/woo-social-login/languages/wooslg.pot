@@ -1,0 +1,2022 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-24 09:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woo-social-login.php:227 woo-social-login.php:347
+#: includes/templates/social-buttons/facebook.php:23
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: woo-social-login.php:228 woo-social-login.php:348
+#: includes/templates/social-link-buttons/facebook_link.php:29
+msgid "Link your account to Facebook"
+msgstr ""
+
+#: woo-social-login.php:229 woo-social-login.php:349
+#: includes/templates/social-buttons/googleplus.php:21
+msgid "Sign in with Google+"
+msgstr ""
+
+#: woo-social-login.php:230 woo-social-login.php:350
+msgid "Link your account to Google+"
+msgstr ""
+
+#: woo-social-login.php:231 woo-social-login.php:351
+#: includes/templates/social-buttons/linkedin.php:21
+msgid "Sign in with LinkedIn"
+msgstr ""
+
+#: woo-social-login.php:232 woo-social-login.php:352
+msgid "Link your account to LinkedIn"
+msgstr ""
+
+#: woo-social-login.php:233 woo-social-login.php:353
+#: includes/templates/social-buttons/twitter.php:21
+msgid "Sign in with Twitter"
+msgstr ""
+
+#: woo-social-login.php:234 woo-social-login.php:354
+msgid "Link your account to Twitter"
+msgstr ""
+
+#: woo-social-login.php:235 woo-social-login.php:355
+#: includes/templates/social-buttons/yahoo.php:21
+msgid "Sign in with Yahoo"
+msgstr ""
+
+#: woo-social-login.php:236 woo-social-login.php:356
+msgid "Link your account to Yahoo"
+msgstr ""
+
+#: woo-social-login.php:237 woo-social-login.php:357
+#: includes/templates/social-buttons/foursquare.php:21
+msgid "Sign in with Foursquare"
+msgstr ""
+
+#: woo-social-login.php:238 woo-social-login.php:358
+msgid "Link your account to Foursquare"
+msgstr ""
+
+#: woo-social-login.php:239 woo-social-login.php:359
+#: includes/templates/social-buttons/windowslive.php:21
+msgid "Sign in with Windows Live"
+msgstr ""
+
+#: woo-social-login.php:240 woo-social-login.php:360
+msgid "Link your account to Windows Live"
+msgstr ""
+
+#: woo-social-login.php:241 woo-social-login.php:361
+#: includes/templates/social-buttons/vk.php:21
+msgid "Sign in with VK.com"
+msgstr ""
+
+#: woo-social-login.php:242 woo-social-login.php:362
+msgid "Link your account to VK.com"
+msgstr ""
+
+#: woo-social-login.php:243 woo-social-login.php:363
+#: includes/templates/social-buttons/instagram.php:21
+msgid "Sign in with Instagram"
+msgstr ""
+
+#: woo-social-login.php:244 woo-social-login.php:364
+msgid "Link your account to Instagram"
+msgstr ""
+
+#: woo-social-login.php:245 woo-social-login.php:365
+#: includes/templates/social-buttons/amazon.php:23
+msgid "Sign in with Amazon"
+msgstr ""
+
+#: woo-social-login.php:246 woo-social-login.php:366
+msgid "Link your account to Amazon"
+msgstr ""
+
+#: woo-social-login.php:247 woo-social-login.php:367
+#: includes/templates/social-buttons/paypal.php:23
+msgid "Sign in with Paypal"
+msgstr ""
+
+#: woo-social-login.php:248 woo-social-login.php:368
+msgid "Link your account to Paypal"
+msgstr ""
+
+#: woo-social-login.php:279 includes/admin/forms/woo-slg-admin-popup.php:51
+msgid "Prefer to Login with Social Media"
+msgstr ""
+
+#: woo-social-login.php:417
+msgid "Settings"
+msgstr ""
+
+#: woo-social-login.php:418
+msgid "Support"
+msgstr ""
+
+#: woo-social-login.php:419
+msgid "Docs"
+msgstr ""
+
+#: includes/class-woo-slg-public.php:296
+#, php-format
+msgid "Your %s account is now linked to your account."
+msgstr ""
+
+#: includes/class-woo-slg-public.php:457 includes/class-woo-slg-public.php:563
+msgid "Register"
+msgstr ""
+
+#: includes/class-woo-slg-public.php:466 includes/class-woo-slg-public.php:468
+#: includes/class-woo-slg-public.php:472
+msgid "ERROR"
+msgstr ""
+
+#: includes/class-woo-slg-public.php:466
+msgid "Enter your email address."
+msgstr ""
+
+#: includes/class-woo-slg-public.php:468
+msgid "The email address did not validate."
+msgstr ""
+
+#: includes/class-woo-slg-public.php:472
+msgid "Email already exists, If you have an account login first."
+msgstr ""
+
+#: includes/class-woo-slg-public.php:551
+msgid "Registration Form"
+msgstr ""
+
+#: includes/class-woo-slg-public.php:551
+msgid "Please enter your email address to complete registration."
+msgstr ""
+
+#: includes/class-woo-slg-public.php:556
+msgid "E-mail"
+msgstr ""
+
+#: includes/class-woo-slg-public.php:560
+msgid "Username and Password will be sent to your email."
+msgstr ""
+
+#: includes/class-woo-slg-renderer.php:573
+msgid "Prefer Social Login"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:28
+#: includes/templates/social-buttons/facebook.php:29
+msgid "Facebook"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:29
+msgid "Twitter"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:30
+#: includes/templates/social-buttons/googleplus.php:27
+msgid "Google+"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:31
+#: includes/templates/social-buttons/linkedin.php:27
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:32
+#: includes/templates/social-buttons/yahoo.php:27
+msgid "Yahoo"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:33
+#: includes/templates/social-buttons/foursquare.php:27
+msgid "Foursquare"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:34
+#: includes/templates/social-buttons/windowslive.php:27
+msgid "Windows Live"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:35
+msgid "VK"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:36
+#: includes/templates/social-buttons/instagram.php:27
+msgid "Instagram"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:37
+#: includes/templates/social-buttons/amazon.php:29
+msgid "Amazon"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:38
+#: includes/templates/social-buttons/paypal.php:29
+msgid "Paypal"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:379
+msgid "You can link your account to the following providers:"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:616
+msgid "Your account is connected to the following social login providers."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:617
+msgid "You have no social login profiles connected."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:618
+msgid "Add More..."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:619
+msgid "Connect one now"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:620
+#, php-format
+msgid "%s account was successfully unlinked from your account."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:621
+msgid "This account is already linked with another account."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:622
+msgid "This account is already exist"
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:623
+msgid "Please enter Facebook API Key & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:624
+msgid "Please enter Google+ Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:625
+msgid "Please enter LinkedIn API Key & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:626
+msgid "Please enter Twitter Consumer Key & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:627
+msgid "Please enter Yahoo API Consumer Key, Secret & App Id in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:628
+msgid "Please enter Foursquare API Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:629
+msgid "Please enter Windows Live API Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:630
+msgid "Please enter VK API Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:631
+msgid "Please enter Instagram API Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:632
+msgid "Please enter Amazon API Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/woo-slg-misc-functions.php:633
+msgid "Please enter Paypal API Client ID & Secret in settings page."
+msgstr ""
+
+#: includes/class-woo-slg-shortcodes.php:90
+#: includes/widgets/class-woo-slg-login-buttons.php:97
+#: includes/templates/checkout-social-wrapper.php:34
+msgid "Click here to login"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:34
+#: includes/admin/class-woo-slg-admin.php:35
+#: includes/admin/forms/woo-social-login-data.php:20
+#: includes/admin/forms/woo-slg-admin-popup.php:35
+msgid "Social Login"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "English"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Albanian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Arabic"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Armenian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Basque"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Belarusian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Bengali"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Bosanski"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Catalan"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Chinese"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Czech"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Danish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Dutch"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Esperanto"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Estonian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Finnish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Faroese"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Filipino"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "French"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Galician"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Georgian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "German"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Greek"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Hebrew"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Hindi"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Hrvatski"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Hungarian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Icelandic"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Indonesian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Irish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Italian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Japanese"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Korean"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Kurdish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Latin"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Latvian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Leet Speak"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Macedonian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Malay"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Malayalam"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Nederlands"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Nepali"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Norwegian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Pashto"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Persian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Polish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Portugese"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Punjabi"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Romanian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Russian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Slovak"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Slovenian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Spanish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Srpski"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Swahili"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Swedish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Tamil"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Telugu"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Thai"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Turkish"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Welsh"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:82
+msgid "Traditional Chinese Language"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:87
+msgid "Social Login Options"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:99
+msgid "General Settings - All4Share.net"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:100
+msgid "Configure Social Login General Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:105
+msgid "Delete Options:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:108
+msgid ""
+"If you don't want to use the Social Login Plugin on your site anymore, you "
+"can check that box. This makes sure, that all the settings and tables are "
+"being deleted from the database when you deactivate the plugin."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:112
+msgid "Display Social Login buttons on Login page:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:115
+msgid ""
+"Check this box to add social login buttons on woocommerce login page and "
+"default wordpress login page."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:119
+msgid "Display \"Link Your Account\" button on Thank You page:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:122
+msgid ""
+" Check this box to allow customers to link their social account on the Thank "
+"You page for faster login & checkout next time they purchase."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:132
+#: includes/admin/forms/woo-slg-admin-popup.php:48
+msgid "Social Login Title:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:133
+msgid "Enter Social Login Title."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:139
+msgid "Enable Email Notification:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:140
+msgid ""
+"Check this box, if you want to notify admin and user when user is registered "
+"by social media."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:145
+#: includes/admin/forms/woo-slg-admin-popup.php:57
+msgid "Redirect URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:146
+#: includes/admin/forms/woo-slg-admin-popup.php:61
+msgid ""
+"Enter a redirect URL for users after they login with social media. The URL "
+"must start with"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:152
+msgid "Autoregistered Usernames:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:158
+msgid "Based on unique ID & random number ( i.e. woo_slg_123456 )"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:159
+msgid "Based on real name ( i.e. john_smith )"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:160
+msgid ""
+"Based on email ID ( i.e. john.smith@example.com to john_smith_example_com )"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:161
+msgid ""
+"Actual email ID ( i.e. john.smith@example.com to john.smith@example.com )"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:161
+msgid ""
+"<span class=\"woo-slg-warning-message\">( <span class=\"woo-slg-not-rec\">"
+"Not Recommended</span> : This may create compatibility issues with other "
+"third party plugins. )"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:166
+#: includes/admin/forms/woo-slg-admin-popup.php:75
+msgid "Expand/Collapse Buttons:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:167
+#: includes/admin/forms/woo-slg-admin-popup.php:84
+msgid "Here you can select how to show the social login buttons."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:172
+#: includes/widgets/class-woo-slg-login-buttons.php:177
+#: includes/admin/forms/woo-slg-admin-popup.php:79
+msgid "None"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:172
+#: includes/widgets/class-woo-slg-login-buttons.php:178
+#: includes/admin/forms/woo-slg-admin-popup.php:80
+msgid "Collapse"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:172
+#: includes/widgets/class-woo-slg-login-buttons.php:179
+#: includes/admin/forms/woo-slg-admin-popup.php:81
+msgid "Expand"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:176
+msgid "Social Buttons Image/Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:183
+msgid "Use image as buttons"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:184
+msgid "Use text as buttons"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:195
+msgid "Facebook Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:196
+msgid "Configure Social Login Facebook Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:201
+msgid "Facebook Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:202
+msgid ""
+"Before you can start using Facebook for the social login, you need to create "
+"a Facebook Application. You can get a step by step tutorial on how to create "
+"Facebook Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:202
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:283
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:364
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:445
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:519
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:607
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:681
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:756
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:830
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:912
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:988
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:207
+msgid "Enable Facebook:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:208
+msgid ""
+"Check this box, if you want to enable facebook social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:213
+msgid "Facebook App ID/API Key:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:214
+msgid "Enter Facebook API Key."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:220
+msgid "Facebook App Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:221
+msgid "Enter Facebook App Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:227
+msgid "Facebook API Locale:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:228
+msgid ""
+"Select the language for Facebook. With this option, you can explicitly tell "
+"which language you want to use for communicating with Facebook."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:234
+msgid "Custom Facebook Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:235
+msgid "If you want to use your own Facebook Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:241
+msgid "Custom Facebook Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:242
+msgid "If you want to use your own Facebook Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:248
+msgid "Custom Facebook Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:249
+msgid "If you want to use your own Facebook Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:256
+msgid "Custom Facebook Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:257
+msgid "If you want to use your own Facebook Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:264
+msgid "Enable Facebook Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:265
+msgid ""
+"Check this box, if you want to use Facebook profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:276
+msgid "Google+ Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:277
+msgid "Configure Social Login Google+ Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:282
+msgid "Google+ Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:283
+msgid ""
+"Before you can start using Google+ for the social login, you need to create "
+"a Google+ Application. You can get a step by step tutorial on how to create "
+"Google+ Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:288
+msgid "Enable Google+:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:289
+msgid ""
+"Check this box, if you want to enable google+ social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:294
+msgid "Google+ Client ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:295
+msgid "Enter Google+ Client ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:301
+msgid "Google+ Client Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:302
+msgid "Enter Google+ Client Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:308
+msgid "Google+ Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:315
+msgid "Custom Google+ Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:316
+msgid "If you want to use your own Google+ Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:322
+msgid "Custom Google+ Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:323
+msgid "If you want to use your own Google+ Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:329
+msgid "Custom Google+ Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:330
+msgid "If you want to use your own Google+ Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:337
+msgid "Custom Google+ Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:338
+msgid "If you want to use your own Google+ Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:345
+msgid "Enable Google Plus Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:346
+msgid ""
+"Check this box, if you want to use Google Plus profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:357
+msgid "LinkedIn Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:358
+msgid "Configure Social Login LinkedIn Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:363
+msgid "LinkedIn Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:364
+msgid ""
+"Before you can start using LinkedIn for the social login, you need to create "
+"a LinkedIn Application. You can get a step by step tutorial on how to create "
+"LinkedIn Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:369
+msgid "Enable LinkedIn:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:370
+msgid ""
+"Check this box, if you want to enable LinkedIn social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:375
+msgid "LinkedIn App ID/API Key:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:376
+msgid "Enter LinkedIn App ID/API Key."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:382
+msgid "LinkedIn App Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:383
+msgid "Enter LinkedIn App Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:389
+msgid "LinkedIn Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:396
+msgid "Custom LinkedIn Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:397
+msgid "If you want to use your own LinkedIn Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:403
+msgid "Custom LinkedIn Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:404
+msgid "If you want to use your own LinkedIn Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:410
+msgid "Custom LinkedIn Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:411
+msgid "If you want to use your own LinkedIn Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:418
+msgid "Custom LinkedIn Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:419
+msgid "If you want to use your own LinkedIn Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:426
+msgid "Enable LinkedIn Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:427
+msgid ""
+"Check this box, if you want to use LinkedIn profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:438
+msgid "Twitter Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:439
+msgid "Configure Social Login Twitter Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:444
+msgid "Twitter Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:445
+msgid ""
+"Before you can start using Twitter for the social login, you need to create "
+"a Twitter Application. You can get a step by step tutorial on how to create "
+"Twitter Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:450
+msgid "Enable Twitter:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:451
+msgid ""
+"Check this box, if you want to enable Twitter social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:456
+msgid "Twitter API Key:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:457
+msgid "Enter Twitter API Key."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:463
+msgid "Twitter API Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:464
+msgid "Enter Twitter API Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:470
+msgid "Custom Twitter Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:471
+msgid "If you want to use your own Twitter Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:477
+msgid "Custom Twitter Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:478
+msgid "If you want to use your own Twitter Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:484
+msgid "Custom Twitter Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:485
+msgid "If you want to use your own Twitter Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:492
+msgid "Custom Twitter Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:493
+msgid "If you want to use your own Twitter Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:500
+msgid "Enable Twitter Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:501
+msgid "Check this box, if you want to use Twitter profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:512
+msgid "Yahoo Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:513
+msgid "Configure Social Login Yahoo Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:518
+msgid "Yahoo Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:519
+msgid ""
+"Before you can start using Yahoo for the social login, you need to create a "
+"Yahoo Application. You can get a step by step tutorial on how to create "
+"Yahoo Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:524
+msgid "Enable Yahoo:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:525
+msgid "Check this box, if you want to enable Yahoo social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:530
+msgid "Yahoo Consumer Key:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:531
+msgid "Enter Yahoo Consumer Key."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:537
+msgid "Yahoo Consumer Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:538
+msgid "Enter Yahoo Consumer Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:544
+msgid "Yahoo App Id:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:545
+msgid "Enter Yahoo App Id."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:551
+msgid "Yahoo Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:558
+msgid "Custom Yahoo Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:559
+msgid "If you want to use your own Yahoo Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:565
+msgid "Custom Yahoo Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:566
+msgid "If you want to use your own Yahoo Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:572
+msgid "Custom Yahoo Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:573
+msgid "If you want to use your own Yahoo Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:580
+msgid "Custom Yahoo Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:581
+msgid "If you want to use your own Yahoo Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:588
+msgid "Enable Yahoo Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:589
+msgid "Check this box, if you want to use Yahoo profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:600
+msgid "Foursquare Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:601
+msgid "Configure Social Login Foursquare Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:606
+msgid "Foursquare Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:607
+msgid ""
+"Before you can start using Foursquare for the social login, you need to "
+"create a Foursquare Application. You can get a step by step tutorial on how "
+"to create Foursquare Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:612
+msgid "Enable Foursquare:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:613
+msgid ""
+"Check this box, if you want to enable Foursquare social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:618
+msgid "Foursquare Client ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:619
+msgid "Enter Foursquare Client ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:625
+msgid "Foursquare Client Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:626
+msgid "Enter Foursquare Client Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:632
+msgid "Custom Foursquare Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:633
+msgid "If you want to use your own Foursquare Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:639
+msgid "Custom Foursquare Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:640
+msgid "If you want to use your own Foursquare Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:646
+msgid "Custom Foursquare Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:647
+msgid "If you want to use your own Foursquare Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:654
+msgid "Custom Foursquare Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:655
+msgid "If you want to use your own Foursquare Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:662
+msgid "Enable Foursquare Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:663
+msgid ""
+"Check this box, if you want to use Foursquare profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:674
+msgid "Windows Live Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:675
+msgid "Configure Social Login Windows Live Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:680
+msgid "Windows Live Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:681
+msgid ""
+"Before you can start using Windows Live for the social login, you need to "
+"create a Windows Live Application. You can get a step by step tutorial on "
+"how to create Windows Live Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:686
+msgid "Enable Windows Live:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:687
+msgid ""
+"Check this box, if you want to enable Windows Live social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:692
+msgid "Windows Live Client ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:693
+msgid "Enter Windows Live Client ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:699
+msgid "Windows Live Client Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:700
+msgid "Enter Windows Live Client Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:706
+msgid "Windows Live Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:713
+msgid "Custom Windows Live Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:714
+msgid "If you want to use your own Windows Live Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:720
+msgid "Custom Windows Live Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:721
+msgid "If you want to use your own Windows Live Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:727
+msgid "Custom Windows Live Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:728
+msgid "If you want to use your own Windows Live Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:735
+msgid "Custom Windows Live Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:736
+msgid "If you want to use your own Windows Live Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:749
+msgid "VK Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:750
+msgid "Configure Social Login VK Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:755
+msgid "VK Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:756
+msgid ""
+"Before you can start using VK for the social login, you need to create a VK "
+"Application. You can get a step by step tutorial on how to create VK "
+"Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:761
+msgid "Enable VK:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:762
+msgid "Check this box, if you want to enable vk social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:767
+msgid "VK Application ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:768
+msgid "Enter VK Application ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:774
+msgid "VK Secret Key:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:775
+msgid "Enter VK Secret Key."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:781
+msgid "Custom VK Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:782
+msgid "If you want to use your own VK Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:788
+msgid "Custom VK Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:789
+msgid "If you want to use your own VK Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:795
+msgid "Custom VK Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:796
+msgid "If you want to use your own VK Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:803
+msgid "Custom VK Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:804
+msgid "If you want to use your own VK Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:811
+msgid "Enable VK Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:812
+msgid "Check this box, if you want to use VK profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:823
+msgid "Instagram Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:824
+msgid "Configure Social Login Instagram Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:829
+msgid "Instagram Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:830
+msgid ""
+"Before you can start using Instagram for the social login, you need to "
+"create a Instagram Application. You can get a step by step tutorial on how "
+"to create Instagram Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:835
+msgid "Enable Instagram:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:836
+msgid ""
+"Check this box, if you want to enable Instagram social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:841
+msgid "Instagram Client ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:842
+msgid "Enter Instagram Client ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:848
+msgid "Instagram Client Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:849
+msgid "Enter Instagram Client Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:855
+msgid "Instagram Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:862
+msgid "Custom Instagram Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:863
+msgid "If you want to use your own Instagram Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:869
+msgid "Custom Instagram Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:870
+msgid "If you want to use your own Instagram Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:876
+msgid "Custom Instagram Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:877
+msgid "If you want to use your own Instagram Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:884
+msgid "Custom Instagram Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:885
+msgid "If you want to use your own Instagram Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:892
+msgid "Enable Instagram Avatar:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:893
+msgid ""
+"Check this box, if you want to use Instagram profile pictures as avatars."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:905
+msgid "Amazon Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:906
+msgid "Configure Social Login Amazon Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:911
+msgid "Amazon Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:912
+msgid ""
+"Before you can start using Amazon for the social login, you need to create a "
+"Amazon Application. You can get a step by step tutorial on how to create "
+"Amazon Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:917
+msgid "Enable Amazon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:918
+msgid "Check this box, if you want to enable Amazon social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:923
+msgid "Amazon Client ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:924
+msgid "Enter Amazon Client ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:930
+msgid "Amazon Client Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:931
+msgid "Enter Amazon Client Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:937
+msgid "Amazon Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:944
+msgid "Custom Amazon Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:945
+msgid "If you want to use your own Amazon Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:951
+msgid "Custom Amazon Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:952
+msgid "If you want to use your own Amazon Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:958
+msgid "Custom Amazon Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:959
+msgid "If you want to use your own Amazon Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:966
+msgid "Custom Amazon Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:967
+msgid "If you want to use your own Amazon Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:981
+msgid "Paypal Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:982
+msgid "Configure Social Login Paypal Settings"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:987
+msgid "Paypal Application:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:988
+msgid ""
+"Before you can start using Paypal for the social login, you need to create a "
+"Paypal Application. You can get a step by step tutorial on how to create "
+"Paypal Application on our"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:993
+msgid "Enable paypal:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:994
+msgid "Check this box, if you want to enable Paypal social login registration."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:999
+msgid "Paypal Client ID:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1000
+msgid "Enter Paypal Client ID."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1006
+msgid "Paypal Client Secret:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1007
+msgid "Enter Paypal Client Secret."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1013
+msgid "Paypal Callback URL:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1020
+msgid "Custom paypal Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1021
+msgid "If you want to use your own Paypal Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1027
+msgid "Custom Paypal Link Icon:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1028
+msgid "If you want to use your own Paypal Link Icon, upload one here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1034
+msgid "Custom Paypal Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1035
+msgid "If you want to use your own Paypal Text, Enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1042
+msgid "Custom Paypal Link Text:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1043
+msgid "If you want to use your own Paypal Link Text, enter here."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1050
+msgid "Environment:"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1051
+msgid "Select which environment to process logins under."
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1053
+msgid "Live"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1053
+msgid "Sandbox"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin-settings-tabs.php:1174
+msgid "Upload File"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin.php:35
+msgid "WooCommerce Social Login"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin.php:93
+#: includes/admin/class-woo-slg-admin.php:148
+msgid "Primary Social Profile"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin.php:115
+#: includes/admin/class-woo-slg-admin.php:133
+#: includes/admin/class-woo-slg-admin.php:167
+msgid "N/A"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin.php:145
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/admin/class-woo-slg-admin.php:152
+msgid "Linked Social Profiles"
+msgstr ""
+
+#: includes/widgets/class-woo-slg-login-buttons.php:46
+msgid "A social login widget."
+msgstr ""
+
+#. Name of the plugin
+#: includes/widgets/class-woo-slg-login-buttons.php:49
+msgid "WooCommerce - Social Login"
+msgstr ""
+
+#: includes/widgets/class-woo-slg-login-buttons.php:170
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-woo-slg-login-buttons.php:175
+msgid "Expand/Collapse Social Login Buttons:"
+msgstr ""
+
+#: includes/templates/social-buttons.php:25
+#: includes/templates/social-profile-list.php:20
+msgid "Social Loader"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:24
+msgid "My Social Login Accounts"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:41
+#: includes/templates/social-profile-list.php:56
+#: includes/templates/social-profile-list.php:86
+msgid "Provider"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:42
+#: includes/templates/social-profile-list.php:60
+#: includes/templates/social-profile-list.php:87
+msgid "Account"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:43
+#: includes/templates/social-profile-list.php:88
+msgid "Last Login"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:44
+#: includes/templates/social-profile-list.php:76
+#: includes/templates/social-profile-list.php:89
+msgid "Unlink"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:67
+#, php-format
+msgid "%s @ %s"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:69
+msgid "Never"
+msgstr ""
+
+#: includes/templates/social-profile-list.php:79
+msgid "Primary"
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:25
+#: includes/admin/forms/woo-social-login-data.php:143
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:35
+msgid "Changes Saved."
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:41
+msgid "Drag to Chage Order"
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:47
+#: includes/admin/forms/woo-social-login-data.php:118
+msgid "Chage Order"
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:52
+#: includes/admin/forms/woo-social-login-data.php:123
+msgid "Network"
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:57
+#: includes/admin/forms/woo-social-login-data.php:128
+msgid "Register Count"
+msgstr ""
+
+#: includes/admin/forms/woo-social-login-data.php:198
+msgid "Social Networks Register Percentage"
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:22
+msgid "Add A Social Login Shortcode"
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:23
+msgid "Close"
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:31
+msgid "Select A Shortcode"
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:52
+msgid "Enter a social login title."
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:66
+msgid "Show Only on Page / Post:"
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:70
+msgid ""
+"Check this box if you want to show social login buttons only on inner page "
+"of posts and pages."
+msgstr ""
+
+#: includes/admin/forms/woo-slg-admin-popup.php:93
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/templates/social-buttons/foursquare.php:19
+#: includes/templates/social-buttons/foursquare.php:26
+msgid "Connect with Foursquare"
+msgstr ""
+
+#: includes/templates/social-buttons/amazon.php:21
+#: includes/templates/social-buttons/amazon.php:28
+msgid "Connect with Amazon"
+msgstr ""
+
+#: includes/templates/social-buttons/facebook.php:21
+#: includes/templates/social-buttons/facebook.php:28
+msgid "Connect with Facebook"
+msgstr ""
+
+#: includes/templates/social-buttons/instagram.php:19
+#: includes/templates/social-buttons/instagram.php:26
+msgid "Connect with Instagram"
+msgstr ""
+
+#: includes/templates/social-buttons/windowslive.php:19
+#: includes/templates/social-buttons/windowslive.php:26
+msgid "Connect with Windows Live"
+msgstr ""
+
+#: includes/templates/social-buttons/paypal.php:21
+#: includes/templates/social-buttons/paypal.php:28
+msgid "Connect with Paypal"
+msgstr ""
+
+#: includes/templates/social-buttons/vk.php:19
+#: includes/templates/social-buttons/vk.php:26
+msgid "Connect with VK.com"
+msgstr ""
+
+#: includes/templates/social-buttons/vk.php:27
+msgid "vk"
+msgstr ""
+
+#: includes/templates/social-buttons/yahoo.php:19
+#: includes/templates/social-buttons/yahoo.php:26
+msgid "Connect with Yahoo"
+msgstr ""
+
+#: includes/templates/social-buttons/twitter.php:19
+msgid "Connect with Twitter"
+msgstr ""
+
+#: includes/templates/social-buttons/twitter.php:26
+#: includes/templates/social-buttons/twitter.php:27
+#: includes/templates/social-link-buttons/twitter_link.php:19
+#: includes/templates/social-link-buttons/twitter_link.php:21
+#: includes/templates/social-link-buttons/twitter_link.php:26
+#: includes/templates/social-link-buttons/twitter_link.php:27
+msgid "Link your account with Twitter"
+msgstr ""
+
+#: includes/templates/social-buttons/linkedin.php:19
+#: includes/templates/social-buttons/linkedin.php:26
+msgid "Connect with LinkedIn"
+msgstr ""
+
+#: includes/templates/social-buttons/googleplus.php:19
+#: includes/templates/social-buttons/googleplus.php:26
+msgid "Connect with Google+"
+msgstr ""
+
+#: includes/templates/social-link-buttons/paypal_link.php:21
+#: includes/templates/social-link-buttons/paypal_link.php:23
+#: includes/templates/social-link-buttons/paypal_link.php:28
+#: includes/templates/social-link-buttons/paypal_link.php:29
+msgid "Link your account with Paypal"
+msgstr ""
+
+#: includes/templates/social-link-buttons/yahoo_link.php:19
+#: includes/templates/social-link-buttons/yahoo_link.php:21
+#: includes/templates/social-link-buttons/yahoo_link.php:26
+#: includes/templates/social-link-buttons/yahoo_link.php:27
+msgid "Link your account with Yahoo"
+msgstr ""
+
+#: includes/templates/social-link-buttons/facebook_link.php:21
+#: includes/templates/social-link-buttons/facebook_link.php:23
+#: includes/templates/social-link-buttons/facebook_link.php:28
+msgid "Link your account with Facebook"
+msgstr ""
+
+#: includes/templates/social-link-buttons/amazon_link.php:21
+#: includes/templates/social-link-buttons/amazon_link.php:23
+#: includes/templates/social-link-buttons/amazon_link.php:28
+#: includes/templates/social-link-buttons/amazon_link.php:29
+msgid "Link your account with Amazon"
+msgstr ""
+
+#: includes/templates/social-link-buttons/googleplus_link.php:19
+#: includes/templates/social-link-buttons/googleplus_link.php:21
+#: includes/templates/social-link-buttons/googleplus_link.php:26
+#: includes/templates/social-link-buttons/googleplus_link.php:27
+msgid "Link your account with Google+"
+msgstr ""
+
+#: includes/templates/social-link-buttons/foursquare_link.php:19
+#: includes/templates/social-link-buttons/foursquare_link.php:21
+#: includes/templates/social-link-buttons/foursquare_link.php:26
+#: includes/templates/social-link-buttons/foursquare_link.php:27
+msgid "Link your account with Foursquare"
+msgstr ""
+
+#: includes/templates/social-link-buttons/instagram_link.php:19
+#: includes/templates/social-link-buttons/instagram_link.php:21
+#: includes/templates/social-link-buttons/instagram_link.php:26
+msgid "Link your account with Instagram"
+msgstr ""
+
+#: includes/templates/social-link-buttons/instagram_link.php:27
+msgid "Link your account with  Instagram"
+msgstr ""
+
+#: includes/templates/social-link-buttons/vk_link.php:19
+#: includes/templates/social-link-buttons/vk_link.php:21
+#: includes/templates/social-link-buttons/vk_link.php:26
+msgid "Link your account with VK.com"
+msgstr ""
+
+#: includes/templates/social-link-buttons/vk_link.php:27
+msgid "Link your account with vk"
+msgstr ""
+
+#: includes/templates/social-link-buttons/linkedin_link.php:19
+#: includes/templates/social-link-buttons/linkedin_link.php:21
+#: includes/templates/social-link-buttons/linkedin_link.php:26
+#: includes/templates/social-link-buttons/linkedin_link.php:27
+msgid "Link your account with LinkedIn"
+msgstr ""
+
+#: includes/templates/social-link-buttons/windowslive_link.php:19
+#: includes/templates/social-link-buttons/windowslive_link.php:21
+#: includes/templates/social-link-buttons/windowslive_link.php:26
+#: includes/templates/social-link-buttons/windowslive_link.php:27
+msgid "Link your account with Windows Live"
+msgstr ""
+
+#: includes/social/libraries/linkedin.php:108
+msgid "Access token retrieval failed"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allow your customers to login and checkout with social networks such as  "
+"Facebook, Twitter, Google, Yahoo, LinkedIn, Foursquare, Windows Live, VK.com,"
+" Instagram, Amazon and PayPal."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://wpweb.co.in"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPWeb"
+msgstr ""

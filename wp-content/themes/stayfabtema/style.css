@@ -1,0 +1,366 @@
+/*
+ Theme Name: Stayfabtema
+ Description: Child tema basis 2016 - udviklet til Stayfab.dk
+ Author: Camilla
+ Version: 1.0
+ Template: neighborhood
+ */ 
+
+@import url('../neighborhood/style.css');
+
+@font-face {
+	font-family: 'segan';
+	src: url('Segan-Light.ttf');
+}
+
+@font-face {
+	font-family: 'zikke';
+	src: url('BebasNeue.otf');
+}
+
+
+
+/*...................................HEADER.................................*/
+
+
+
+/*...................................NAVIGATION.................................*/
+
+#menu-menu img {
+display: none;
+}
+
+
+#mini-header img {
+margin-top: 5px !important;
+}
+
+
+#sale {
+color: red;
+}
+
+
+
+
+
+/*...................................SIDER.................................*/
+.inner-page-wrap {
+margin-top: 0px;
+}
+
+#breadcrumbs {
+display: none;
+}
+
+
+
+/*...................................OVERSKRIFTER.................................*/
+.page-heading {
+border: none;
+background-color: none !important;
+}
+
+
+/*...................................FORSIDE.................................*/
+
+body, p, .masonry-items .blog-item .quote-excerpt, #commentform label, .contact-form label {
+line-height: 0px;
+}
+
+#forside {
+width: 100%;
+margin-top: 20px;
+}
+
+#page-wrap {
+width: 100%;
+}
+
+#forside-omr-1 {
+width: 100%;
+}
+
+#forside-omr-1 a:hover {
+opacity: 0.7;
+}
+
+#forside-omr-1 img {
+display: inline-block;
+max-width: 50%;
+}
+
+#forside-omr-1 hr, #forside-omr-2 hr, #forside-omr-4 hr, #forside-omr-5 hr {
+border: 0.7px solid #000000;
+width: 80%;
+margin-right: auto;
+margin-left: auto;
+margin-top: 30px;
+}
+
+.forside-hr hr {
+border: 0.7px solid #000000;
+width: 80%;
+margin-right: auto;
+margin-left: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+#forside-omr-2 {
+background: #fac8a8;
+}
+
+#forside-omr-2 a:hover {
+opacity: 0.7;
+}
+
+#forside-omr-2-text h1{
+text-transform: uppercase;
+text-align: center;
+font-family: zikke;
+font-size: 42px;
+color: #eeeeee;
+padding-top: 60px;
+}
+
+#forside-omr-2-text h2{
+text-align: center;
+font-family: segan;
+font-size: 22px;
+color: #eeeeee;
+padding-top: 20px;
+padding-bottom: 60px;
+}
+
+#forside-omr-2 img {
+max-width: 200px;
+display: inline-table;
+border-radius: 150px;
+padding: 20px;
+}
+
+#forside-omr-2-1 img, #forside-omr-2-2 img, #forside-omr-2-3 img {
+margin-bottom: 6%;
+}
+
+
+
+#forside-omr-3 {
+text-align: center;
+margin-top: 70px;
+}
+
+#forside-omr-3 h1 {
+margin-bottom: 0px;
+font-family: zikke;
+text-transform: uppercase;
+font-size: 50px;
+letter-spacing: 2px;
+margin-bottom: 10px;
+}
+
+#forside-omr-3 p {
+margin-bottom: 40px;
+font-family: segan;
+}
+
+#forside-omr-4 {
+margin-bottom: 100px;
+}
+
+#forside-omr-4 h1 {
+font-family: zikke;
+text-transform: uppercase;
+font-size: 50px !important;
+letter-spacing: 2px !important;
+color: black !important;
+text-align: center;
+margin-bottom: 30px;
+margin-top: 50px;
+}
+
+
+#forside-omr-5 {
+width: 100%;
+}
+
+#forside-omr-5 img {
+max-width: 48.2%;
+display: inline-block;
+margin: 10px;
+}
+
+#forside-omr-5 a:hover {
+opacity: 0.7; 
+}
+
+#forside-omr-sidste {
+background: #aaaaaa;
+text-align: center;
+margin-top: 20px;
+}
+
+#forside-omr-sidste-text-1 img, #forside-omr-sidste-text-2 img, #forside-omr-sidste-text-3 img {
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	}
+
+#forside-omr-sidste h1 {
+font-family: zikke !important;
+text-transform: uppercase;
+font-size: 30px;
+letter-spacing: 2px;
+}
+
+#forside-omr-sidste p {
+font-family: segan;
+}
+
+#forside-omr-sidste-text-1, #forside-omr-sidste-text-2, #forside-omr-sidste-text-3 {
+width: 300px;
+display: inline-table;
+padding: 25px;
+}
+
+
+#forside-omr-sidste-linje {
+border-top: 1px solid;
+}
+
+#forside-omr-sidste-ikoner img {
+width: 25px;
+padding: 6px;
+margin-top: -20px;
+background: #aaaaaa;
+}
+
+margin-top: -20px; {
+background: #e3e3e3;
+}
+
+
+/*...................................LATEST POSTS WIDGET.................................*/
+
+.wpcufpn_outside {
+margin-right: auto;
+margin-left: auto;
+}
+
+.wpcufpn_container .title {
+font-family: segan; 
+font-size: 20px;
+}
+
+.wpcufpn_container.default .text, .wpcufpn_container.default .date, .wpcufpn_container.default .category {
+font-family: segan;
+}
+
+.wpcufpn_container.default .text {
+margin-right: 15px;
+max-width: 60%;
+font-size: 15px !important;
+}
+
+.wpcufpn_container .thumbnail {
+width: 300px;
+}
+
+
+/*...................................BLOG.................................*/
+
+
+
+.has-left-sidebar article, .has-left-sidebar .type-page, .has-left-sidebar .archive-page, .has-left-sidebar .push-right {
+float: none !important;
+}
+
+.sidebar.left-sidebar.span4 {
+width: 100%;
+}
+
+#follow-ig {
+text-align: center;
+margin-top: 50px;
+margin-bottom: 10px;
+font-size: 35px;
+font-family: zikke;
+letter-spacing: 2px;
+}
+
+.blog-item.span4.recent-post.format-standard:hover {
+opacity: 0.8;
+}
+
+figure .overlay {
+display: none;
+}
+
+.pagination-wrap li {
+float: none;
+}
+
+.pagination-wrap {
+text-align: center;
+}
+
+.details-wrap h4 {
+font-family: zikke;
+letter-spacing: 2px;
+font-size: 30px;
+}
+
+.excerpt {
+font-family: segan;
+}
+
+.recent-post .post-item-details {
+font-family: segan;
+}
+
+/*...................................FOOTER.................................*/
+.widget-heading.clearfix {
+font-size: 11px;
+}
+
+#footer {
+font-size: 11px;
+padding-top: 15px;
+}
+
+#footer-widgets {
+text-align: center;
+font-family: segan;
+}
+
+#footer h4 {
+text-align: center;
+font-size: 14px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+font-family: zikke;
+text-transform: uppercase;
+}
+
+#footer h4 span {
+padding: 0px;
+}
+
+#footer h4::before {
+border: 0px;
+}
+
+.span4 {
+width: 370px;
+}
+
+.widget_categories ul > li, .widget_archive ul > li, .widget_nav_menu ul > li, .widget_recent_comments ul > li, .widget_meta ul > li, .widget_recent_entries ul > li, .widget_product_categories ul > li, .widget_layered_nav ul li {
+border-top: 0px;
+}
+
+.widget ul li > a {
+padding: 5px 0;
+}

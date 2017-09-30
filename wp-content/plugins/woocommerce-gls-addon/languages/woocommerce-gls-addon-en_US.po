@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce GLS Addon v0.9.4-beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-02-20 12:40:56+0000\n"
+"Last-Translator: morten <morten@w-academy.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class.shipping-method.php:11
+#@ woocommerce-gls-addon
+msgid "GLS Shipping Method"
+msgstr "GLS Shipping Method"
+
+#: class.shipping-method.php:12
+#@ woocommerce-gls-addon
+msgid "Description of GLS shipping method"
+msgstr "Description of GLS shipping method"
+
+#: class.shipping-method.php:14
+#@ woocommerce-gls-addon
+msgid "GLS Shop Shipping Method"
+msgstr "GLS Shop Shipping Method"
+
+#: class.shipping-method.php:16
+#@ woocommerce-gls-addon
+msgid "Find Nearest Shops"
+msgstr "Find Nearest Shops"
+
+#: class.shipping-method.php:17
+#: class.shipping-method.php:84
+#: woocommerce/checkout/review-order.php:126
+#@ woocommerce-gls-addon
+msgid "Please Enter The Billing (street , zip) / Shipping (street , zip) Address and press \"search button\""
+msgstr "Please Enter The Billing (street , zip) / Shipping (street , zip) Address and press \"search button\""
+
+#: class.shipping-method.php:19
+#: class.shipping-method.php:102
+#: class.shipping-method.php:127
+#@ woocommerce-gls-addon
+msgid "invalid"
+msgstr "invalid"
+
+#: class.shipping-method.php:51
+#: class.shipping-method.php:53
+#@ woocommerce-gls-addon
+msgid "Enable"
+msgstr "Enable"
+
+#: class.shipping-method.php:57
+#@ woocommerce-gls-addon
+msgid "Method Title"
+msgstr "Method Title"
+
+#: class.shipping-method.php:59
+#@ woocommerce-gls-addon
+msgid "Title"
+msgstr "Title"
+
+#: class.shipping-method.php:60
+#@ woocommerce-gls-addon
+msgid "GLS Shop"
+msgstr "GLS Shop"
+
+#: class.shipping-method.php:63
+#@ woocommerce-gls-addon
+msgid "Shipping Rate"
+msgstr "Shipping Rate"
+
+#: class.shipping-method.php:65
+#@ woocommerce-gls-addon
+msgid "Rate for shipping"
+msgstr "Rate for shipping"
+
+#: class.shipping-method.php:66
+#@ woocommerce-gls-addon
+msgid "10.99"
+msgstr "10.99"
+
+#: class.shipping-method.php:71
+#@ woocommerce-gls-addon
+msgid "Section Title"
+msgstr "Section Title"
+
+#: class.shipping-method.php:69
+#: class.shipping-method.php:72
+#@ woocommerce-gls-addon
+msgid "Search GLS Shop"
+msgstr "Search GLS Shop"
+
+#: class.shipping-method.php:77
+#@ woocommerce-gls-addon
+msgid "Button Text"
+msgstr "Button Text"
+
+#: class.shipping-method.php:78
+#@ woocommerce-gls-addon
+msgid "Find Nearnest Shop"
+msgstr "Find Nearnest Shop"
+
+#: class.shipping-method.php:81
+#@ woocommerce-gls-addon
+msgid "Description"
+msgstr "Description"
+
+#: class.shipping-method.php:83
+#@ woocommerce-gls-addon
+msgid "Description below the button"
+msgstr "Description below the button"
+
+#: class.shipping-method.php:87
+#@ woocommerce-gls-addon
+msgid "Search Number of Shop Limits"
+msgstr "Search Number of Shop Limits"
+
+#: class.shipping-method.php:89
+#@ woocommerce-gls-addon
+msgid "Search Number of shop limits"
+msgstr "Search Number of shop limits"
+
+#: class.shipping-method.php:118
+#@ woocommerce-gls-addon
+msgid "Activation Key"
+msgstr "Activation Key"
+
+#: class.shipping-method.php:120
+#@ woocommerce-gls-addon
+msgid "(To activate enter the license key and press activate)"
+msgstr "(To activate enter the license key and press activate)"
+
+#: woocommerce/cart/cart-shipping.php:16
+#: woocommerce/cart/shipping-methods.php:16
+#, php-format
+#@ woocommerce
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+#: woocommerce/cart/shipping-methods.php:18
+#@ woocommerce
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:45
+#: woocommerce/cart/shipping-methods.php:45
+#@ woocommerce
+msgid "No shipping methods were found; please recalculate your shipping or continue to checkout and enter your full address to see if there is shipping available to your location."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:47
+#: woocommerce/cart/shipping-methods.php:47
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+#: woocommerce/cart/cart-shipping.php:59
+#: woocommerce/cart/shipping-methods.php:53
+#: woocommerce/cart/shipping-methods.php:59
+#, php-format
+#@ woocommerce
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+#: woocommerce/cart/cart-shipping.php:59
+#: woocommerce/cart/shipping-methods.php:53
+#: woocommerce/cart/shipping-methods.php:59
+#@ woocommerce
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+#: woocommerce/cart/shipping-methods.php:71
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:18
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:19
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:25
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:71
+#@ woocommerce
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:79
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:118
+#@ woocommerce-gls-addon
+msgid "Shipping Shop Information"
+msgstr "Shipping Shop Information"
+
+#: woocommerce/checkout/review-order.php:120
+#@ woocommerce-gls-addon
+msgid "Find Nearest Shop"
+msgstr "Find Nearest Shop"
+
+#: woocommerce/checkout/review-order.php:167
+#@ woocommerce
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:169
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:178
+#@ woocommerce
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:178
+#@ woocommerce
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#@ woocommerce
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:194
+#@ woocommerce
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:194
+#@ woocommerce
+msgid "terms &amp; conditions"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "Woocommerce GLS Addon"
+msgstr "Woocommerce GLS Addon"
+
+#. translators: plugin header field 'Author'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "Wordpress Academy Team"
+msgstr "Wordpress Academy Team"
+
+#. translators: plugin header field 'AuthorURI'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "http://w-academy.dk/"
+msgstr "http://w-academy.dk/"
+
+#: woocommerce-gls-addon.php:94
+#@ woocommerce-gls-addon
+msgid "Nearest Shop Details"
+msgstr "Nearest Shop Details"
+
+#: woocommerce-gls-addon.php:120
+#@ woocommerce-gls-addon
+msgid "No Shop Selected"
+msgstr "No Shop Selected"
+
+#: woocommerce-gls-addon.php:134
+#@ woocommerce
+msgid "<strong>Shop Name : </strong> Please Select Shop Name"
+msgstr ""
+
+#: ajax/search.php:42
+#: ajax/search.php:87
+#@ woocommerce-gls-addon
+msgid "start"
+msgstr ""
+
+#: ajax/search.php:42
+#: ajax/search.php:87
+#@ woocommerce-gls-addon
+msgid "end"
+msgstr ""
+
+#: class.shipping-method.php:75
+#@ woocommerce-gls-addon
+msgid "Search Nearest Shop Button Text"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "An woocommerce extension that enables the user to search nearest GLS shop for shipping."
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "0.9.4-beta"
+msgstr ""
+
+#: woocommerce-gls-addon.php:41
+#@ woocommerce-gls-addon
+msgid "Woocommerce GLS Addon Require Woocommerce."
+msgstr ""
+
+#: class.shipping-method.php:51
+#@ woocommerce-gls-addon
+msgid "Disable"
+msgstr ""
+

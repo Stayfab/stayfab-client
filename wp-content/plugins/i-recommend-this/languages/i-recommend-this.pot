@@ -1,0 +1,211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-25 13:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: dot-irecommendthis.php:169 dot-irecommendthis.php:170
+msgid "I Recommend This"
+msgstr ""
+
+#: dot-irecommendthis.php:189
+msgid "Automatically display on"
+msgstr ""
+
+#: dot-irecommendthis.php:191
+msgid "Text after 0 Count"
+msgstr ""
+
+#: dot-irecommendthis.php:193
+msgid "Text after 1 Count"
+msgstr ""
+
+#: dot-irecommendthis.php:195
+msgid "Text after more than 1 Count"
+msgstr ""
+
+#: dot-irecommendthis.php:197
+msgid "Title for New posts"
+msgstr ""
+
+#: dot-irecommendthis.php:199
+msgid "Title for already voted posts"
+msgstr ""
+
+#: dot-irecommendthis.php:201
+msgid "Disable CSS"
+msgstr ""
+
+#: dot-irecommendthis.php:203
+msgid "Hide Zero Count"
+msgstr ""
+
+#: dot-irecommendthis.php:205
+msgid "Disable IP saving"
+msgstr ""
+
+#: dot-irecommendthis.php:207
+msgid "Choose a style"
+msgstr ""
+
+#: dot-irecommendthis.php:209
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: dot-irecommendthis.php:237
+msgid "Save Changes"
+msgstr ""
+
+#: dot-irecommendthis.php:251
+msgid ""
+"<a href=\"https://twitter.com/harishchouhan\" class=\"twitter-follow-"
+"button\" data-show-count=\"false\">Follow @harishchouhan</a>\n"
+"<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d."
+"getElementById(id)){js=d.createElement(s);js.id=id;js.src=\"//platform."
+"twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,"
+"\"script\",\"twitter-wjs\");</script>"
+msgstr ""
+
+#: dot-irecommendthis.php:253
+msgid ""
+"or Check out our other themes & plugins at <a href=\"https://themeist.com\">"
+"Themeist</a>."
+msgstr ""
+
+#. Description of the plugin
+#: dot-irecommendthis.php:254
+msgid ""
+"This plugin allows your visitors to simply recommend or like your posts "
+"instead of commment it."
+msgstr ""
+
+#: dot-irecommendthis.php:266
+msgid "Posts"
+msgstr ""
+
+#: dot-irecommendthis.php:269
+msgid "All other pages like Index, Archive, etc."
+msgstr ""
+
+#: dot-irecommendthis.php:279
+msgid "Hide count if count is zero"
+msgstr ""
+
+#: dot-irecommendthis.php:289
+msgid ""
+"Disable saving of IP Address. Will only save cookies to track user votes."
+msgstr ""
+
+#: dot-irecommendthis.php:299
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: dot-irecommendthis.php:308
+msgid ""
+"Text to display after zero count. Leave blank for no text after the count."
+msgstr ""
+
+#: dot-irecommendthis.php:316
+msgid ""
+"Text to display after 1 person has recommended. Leave blank for no text "
+"after the count."
+msgstr ""
+
+#: dot-irecommendthis.php:325
+msgid ""
+"Text to display after more than 1 person have recommended. Leave blank for "
+"no text after the count."
+msgstr ""
+
+#: dot-irecommendthis.php:334
+msgid "Link Title element for posts not yet voted by a user."
+msgstr ""
+
+#: dot-irecommendthis.php:343
+msgid "Link Title element for posts already voted by a user."
+msgstr ""
+
+#: dot-irecommendthis.php:352
+msgid "Default style - Thumb"
+msgstr ""
+
+#: dot-irecommendthis.php:355
+msgid "Heart"
+msgstr ""
+
+#: dot-irecommendthis.php:360
+msgid ""
+"To use I Recomment This in your posts and pages you can use the shortcode:"
+msgstr ""
+
+#: dot-irecommendthis.php:362
+msgid ""
+"To use I Recomment This manually in your theme template use the following "
+"PHP code:"
+msgstr ""
+
+#: dot-irecommendthis.php:364
+msgid "To show top recommended post from a particular date use below shortcode"
+msgstr ""
+
+#: dot-irecommendthis.php:607 dot-irecommendthis.php:640
+msgid "Recommend this"
+msgstr ""
+
+#: dot-irecommendthis.php:622 dot-irecommendthis.php:655
+msgid "You already recommended this"
+msgstr ""
+
+#: dot-irecommendthis.php:787 dot-irecommendthis.php:806
+#: dot-irecommendthis.php:813 dot-irecommendthis.php:840
+msgid "Most recommended posts"
+msgstr ""
+
+#: dot-irecommendthis.php:788
+msgid "5"
+msgstr ""
+
+#: dot-irecommendthis.php:829
+msgid "Title:"
+msgstr ""
+
+#: dot-irecommendthis.php:832
+msgid "Number of posts to show:"
+msgstr ""
+
+#: dot-irecommendthis.php:835
+msgid "Show post count"
+msgstr ""
+
+#: dot-irecommendthis.php:884
+msgid "Likes"
+msgstr ""
+
+#: dot-irecommendthis.php:890
+msgid "like"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://themeist.com/plugins/wordpress/i-recommend-this/#utm_source=wp-"
+"plugin&utm_medium=i-recommend-this&utm_campaign=plugins-page"
+msgstr ""
+
+#. Author of the plugin
+msgid "themeist"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeist.com/"
+msgstr ""

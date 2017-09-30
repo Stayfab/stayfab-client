@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce GLS Addon v1.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-10 10:57:13+0000\n"
+"Last-Translator: morten <morten@w-academy.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class.shipping-method.php:8
+#@ woocommerce-gls-addon
+msgid "GLS Shipping Method"
+msgstr "GLS Forsendelsesmetode"
+
+#: class.shipping-method.php:9
+#@ woocommerce-gls-addon
+msgid "Description of GLS shipping method"
+msgstr "Beskrivelse af GLS forsendelsesmetode"
+
+#: class.shipping-method.php:14
+#@ woocommerce-gls-addon
+msgid "GLS Shop Shipping Method"
+msgstr "GLS Shop forsendelsemetode"
+
+#: class.shipping-method.php:16
+#@ woocommerce-gls-addon
+msgid "Find Nearest Shops"
+msgstr "Find nærmeste pakkeshop"
+
+#: class.shipping-method.php:17
+#: class.shipping-method.php:139
+#: woocommerce-gls-addon.php:471
+#@ woocommerce-gls-addon
+msgid "Please Enter The Billing (street , zip) / Shipping (street , zip) Address and press \"search button\""
+msgstr "Indtast adresse, postnummer og klik på knappen  \"Find nærmeste pakkeshops\""
+
+#: class.shipping-method.php:31
+#: class.shipping-method.php:237
+#: class.shipping-method.php:266
+#@ woocommerce-gls-addon
+msgid "invalid"
+msgstr "ugyldig"
+
+#: class.shipping-method.php:82
+#: class.shipping-method.php:84
+#: class.shipping-method.php:102
+#: class.shipping-method.php:108
+#@ woocommerce-gls-addon
+msgid "Enable"
+msgstr "Aktiver"
+
+#: class.shipping-method.php:88
+#@ woocommerce-gls-addon
+msgid "Method Title"
+msgstr "Metode Titel"
+
+#: class.shipping-method.php:90
+#@ woocommerce-gls-addon
+msgid "Title"
+msgstr "Titel"
+
+#: class.shipping-method.php:91
+#: woocommerce-gls-addon.php:454
+#@ woocommerce-gls-addon
+msgid "GLS Shop"
+msgstr "GLS pakkeshop"
+
+#: class.shipping-method.php:94
+#@ woocommerce-gls-addon
+msgid "Shipping Rate"
+msgstr "Forsendelse pris"
+
+#: class.shipping-method.php:96
+#@ woocommerce-gls-addon
+msgid "Rate for shipping"
+msgstr "Pris for forsendelse"
+
+#: class.shipping-method.php:126
+#@ woocommerce-gls-addon
+msgid "Section Title"
+msgstr "Titel til sektionen"
+
+#: class.shipping-method.php:124
+#: class.shipping-method.php:127
+#@ woocommerce-gls-addon
+msgid "Search GLS Shop"
+msgstr "Søg efter nærmeste GLS pakkeshop"
+
+#: class.shipping-method.php:132
+#@ woocommerce-gls-addon
+msgid "Button Text"
+msgstr "Knap Tekst"
+
+#: class.shipping-method.php:133
+#@ woocommerce-gls-addon
+msgid "Find Nearnest Shop"
+msgstr "Find nærmeste pakkeshop"
+
+#: class.shipping-method.php:136
+#@ woocommerce-gls-addon
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: class.shipping-method.php:138
+#@ woocommerce-gls-addon
+msgid "Description below the button"
+msgstr "Beskrivelse under knappen"
+
+#: class.shipping-method.php:142
+#@ woocommerce-gls-addon
+msgid "Search Number of Shop Limits"
+msgstr "Antal mulige pakkeshops som vises"
+
+#: class.shipping-method.php:144
+#@ woocommerce-gls-addon
+msgid "Search Number of shop limits"
+msgstr "Antal mulige pakkeshops som vises"
+
+#: class.shipping-method.php:257
+#@ woocommerce-gls-addon
+msgid "Activation Key"
+msgstr "Aktiveringsnøgle"
+
+#: class.shipping-method.php:259
+#@ woocommerce-gls-addon
+msgid "(To activate enter the license key and press activate)"
+msgstr "(For at aktivere indtast licens nøglen og tryk på Aktivér)"
+
+#: woocommerce/cart/cart-shipping.php:16
+#: woocommerce/cart/shipping-methods.php:16
+#, php-format
+#@ woocommerce
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+#: woocommerce/cart/shipping-methods.php:18
+#@ woocommerce
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:45
+#: woocommerce/cart/shipping-methods.php:45
+#@ woocommerce
+msgid "No shipping methods were found; please recalculate your shipping or continue to checkout and enter your full address to see if there is shipping available to your location."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:47
+#: woocommerce/cart/shipping-methods.php:47
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+#: woocommerce/cart/cart-shipping.php:59
+#: woocommerce/cart/shipping-methods.php:53
+#: woocommerce/cart/shipping-methods.php:59
+#, php-format
+#@ woocommerce
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+#: woocommerce/cart/cart-shipping.php:59
+#: woocommerce/cart/shipping-methods.php:53
+#: woocommerce/cart/shipping-methods.php:59
+#@ woocommerce
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+#: woocommerce/cart/shipping-methods.php:71
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/order/order-details.php:20
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:19
+#: woocommerce/order/order-details.php:21
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:25
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:71
+#@ woocommerce
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:79
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce-gls-addon.php:451
+#@ woocommerce-gls-addon
+msgid "Shipping Shop Information"
+msgstr "Forsendelse Shop Information"
+
+#: woocommerce-gls-addon.php:465
+#@ woocommerce-gls-addon
+msgid "Find Nearest Shop"
+msgstr "Find nærmeste pakkeshops"
+
+#: woocommerce/checkout/review-order.php:162
+#@ woocommerce
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:164
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:173
+#@ woocommerce
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:173
+#@ woocommerce
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:180
+#@ woocommerce
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:189
+#@ woocommerce
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:189
+#@ woocommerce
+msgid "terms &amp; conditions"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "Woocommerce GLS Addon"
+msgstr "Woocommerce GLS Addon"
+
+#. translators: plugin header field 'Author'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "Wordpress Academy Team"
+msgstr "Wordpress Academy Team"
+
+#. translators: plugin header field 'AuthorURI'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "http://w-academy.dk/"
+msgstr "http://w-academy.dk/"
+
+#: woocommerce-gls-addon.php:174
+#@ woocommerce
+msgid "<strong>Shop Name : </strong> Please Select Shop Name"
+msgstr ""
+
+#: class.shipping-method.php:130
+#@ woocommerce-gls-addon
+msgid "Search Nearest Shop Button Text"
+msgstr "Søg nærmeste pakke shop - Knap tekst"
+
+#. translators: plugin header field 'Description'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "An woocommerce extension that enables the user to search nearest GLS shop for shipping."
+msgstr "An woocommerce extension that enables the user to search nearest GLS shop for shipping."
+
+#: woocommerce-gls-addon.php:39
+#@ woocommerce-gls-addon
+msgid "Woocommerce GLS Addon Require Woocommerce."
+msgstr "Woocommerce GLS Addon Require Woocommerce."
+
+#: class.shipping-method.php:82
+#@ woocommerce-gls-addon
+msgid "Disable"
+msgstr "Deaktiver"
+
+#: ajax/search.php:62
+#: ajax/search.php:125
+#@ woocommerce-gls-addon
+msgid "start"
+msgstr "Start"
+
+#: ajax/search.php:62
+#: ajax/search.php:125
+#@ woocommerce-gls-addon
+msgid "end"
+msgstr "Slut"
+
+#: class.shipping-method.php:97
+#@ woocommerce-gls-addon
+msgid "40.00"
+msgstr "40.00"
+
+#: class.shipping-method.php:112
+#@ woocommerce-gls-addon
+msgid "Shipping To Company Rate"
+msgstr "Send til firma adresse pris"
+
+#: class.shipping-method.php:114
+#@ woocommerce-gls-addon
+msgid "Rate of shipping for company"
+msgstr "Pris for fragt til firmaadresse"
+
+#: class.shipping-method.php:115
+#@ woocommerce-gls-addon
+msgid "50.00"
+msgstr "50.00"
+
+#: class.shipping-method.php:118
+#: class.shipping-method.php:120
+#@ woocommerce-gls-addon
+msgid "Minimum order amount to get free shipping"
+msgstr "Min. Beløb for at få gratis fragt"
+
+#: class.shipping-method.php:196
+#: class.shipping-method.php:201
+#@ woocommerce-gls-addon
+msgid "Dynamic Pricing"
+msgstr "Dynamisk fragt pris"
+
+#: class.shipping-method.php:460
+#: class.shipping-method.php:512
+#: woocommerce-gls-addon.php:270
+#: woocommerce-gls-addon.php:282
+#@ woocommerce-gls-addon
+msgid "Remove"
+msgstr "Slet"
+
+#: woocommerce/checkout/thankyou.php:18
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:67
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#, php-format
+#@ woocommerce
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#, php-format
+#@ woocommerce
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:23
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: class.shipping-method.php:405
+#: woocommerce/emails/admin-new-order.php:24
+#@ woocommerce-gls-addon
+#@ woocommerce
+msgid "Price"
+msgstr "Pris"
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/order/order-details.php:100
+#@ woocommerce
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/order/order-details.php:104
+#@ woocommerce
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#@ woocommerce
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#@ woocommerce
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#@ woocommerce
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+#@ woocommerce
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:67
+#, php-format
+#@ woocommerce
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:105
+#@ woocommerce
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:121
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:125
+#: woocommerce/order/order-details.php:159
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:136
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: class.generate_labels.php:191
+#: woocommerce-gls-addon.php:164
+#@ woocommerce-gls-addon
+msgid "Generate Label"
+msgstr "Generer Label"
+
+#: woocommerce-gls-addon.php:457
+#@ woocommerce-gls-addon
+msgid "Company Address"
+msgstr "Firma adresse"
+
+#: class.shipping-method.php:153
+#@ woocommerce-gls-addon
+msgid "Gls Shop User Name"
+msgstr "Gls Shop User Name"
+
+#: class.shipping-method.php:158
+#@ woocommerce-gls-addon
+msgid "Gls Shop Password"
+msgstr "Gls Shop Password"
+
+#: class.shipping-method.php:163
+#@ woocommerce-gls-addon
+msgid "Gls Shop Customer ID"
+msgstr "Gls Shop Customer ID"
+
+#: class.shipping-method.php:168
+#@ woocommerce-gls-addon
+msgid "Gls Shop Contact ID"
+msgstr "Gls Shop Contact ID"
+
+#: class.shipping-method.php:240
+#@ woocommerce-gls-addon
+msgid "Remove Data On Uninstall"
+msgstr "Fjern alt data når dette plugin slettes"
+
+#: class.shipping-method.php:242
+#@ woocommerce-gls-addon
+msgid "Check this if you want to remove all its data on uninstall"
+msgstr "Markér dette hvis du ønsker at fjerne alt data når du sletter plugin'et"
+
+#: class.shipping-method.php:383
+#: class.shipping-method.php:491
+#: woocommerce-dynamic-pricing.php:36
+#: woocommerce-dynamic-pricing.php:37
+#@ woocommerce-gls-addon
+msgid "Country"
+msgstr "Land"
+
+#: class.shipping-method.php:386
+#@ woocommerce-gls-addon
+msgid "Starting Postcode"
+msgstr "Start postnummer"
+
+#: class.shipping-method.php:389
+#@ woocommerce-gls-addon
+msgid "Ending Postcode"
+msgstr "Slut postnummer"
+
+#: class.shipping-method.php:392
+#@ woocommerce-gls-addon
+msgid "Minmum Weight"
+msgstr "Min. vægt"
+
+#: class.shipping-method.php:394
+#: class.shipping-method.php:401
+#@ woocommerce-gls-addon
+msgid "Only Enter Numeric Value"
+msgstr "indtast kun numeriske værdi"
+
+#: class.shipping-method.php:399
+#@ woocommerce-gls-addon
+msgid "Maximum Weight"
+msgstr "Max. vægt"
+
+#: class.shipping-method.php:407
+#@ woocommerce-gls-addon
+msgid "Only Enter Numeric Values"
+msgstr "indtast kun numeriske værdi"
+
+#: woocommerce-gls-addon.php:178
+#@ woocommerce
+msgid "<strong>Comany Details : </strong> Please enter valid company details"
+msgstr ""
+
+#: class.generate_labels.php:157
+#@ woocommerce-gls-addon
+msgid "Tracking Link"
+msgstr "Tracking Link"
+
+#: class.shipping-method.php:28
+#: class.shipping-method.php:182
+#@ woocommerce-gls-addon
+msgid "Order Tracking Code"
+msgstr "Ordre tracking kode"
+
+#: class.shipping-method.php:100
+#@ woocommerce-gls-addon
+msgid "Enable Shipping To Company Address"
+msgstr "Aktiver \\\"Send til firma adresse\\\""
+
+#: class.shipping-method.php:179
+#@ woocommerce-gls-addon
+msgid "Email Subject"
+msgstr "Email Emne"
+
+#: class.shipping-method.php:185
+#@ woocommerce-gls-addon
+msgid "Email Body"
+msgstr "Email indhold"
+
+#: class.shipping-method.php:187
+#@ woocommerce-gls-addon
+msgid "Use "
+msgstr "Brug "
+
+#: class.shipping-method.php:187
+#@ woocommerce-gls-addon
+msgid " to insert Customer Name and Tracking Link"
+msgstr "for at indsætte kunde navn og tracking link"
+
+#: woocommerce-gls-addon.php:122
+#@ woocommerce-gls-addon
+msgid "GLS : Nearest Shop Details"
+msgstr "GLS: Pakkeshop detaljer"
+
+#: woocommerce-dynamic-pricing.php:44
+#: woocommerce-dynamic-pricing.php:45
+#@ woocommerce-gls-addon
+msgid "First Name"
+msgstr "Fornavn"
+
+#: woocommerce-dynamic-pricing.php:52
+#: woocommerce-dynamic-pricing.php:53
+#@ woocommerce-gls-addon
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: woocommerce-dynamic-pricing.php:60
+#: woocommerce-dynamic-pricing.php:61
+#@ woocommerce-gls-addon
+msgid "Company Name"
+msgstr "Firmaets navn"
+
+#: woocommerce-dynamic-pricing.php:68
+#@ woocommerce-gls-addon
+msgid "Address"
+msgstr "Adresse"
+
+#: woocommerce-gls-addon.php:51
+#@ woocommerce-gls-addon
+msgid "Error In Generting Labels : "
+msgstr "Fejl i Generting Etiketter:"
+
+#: ajax/search.php:114
+#@ woocommerce-gls-addon
+msgid "Monday"
+msgstr "Mandag"
+
+#: ajax/search.php:115
+#@ woocommerce-gls-addon
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: ajax/search.php:116
+#@ woocommerce-gls-addon
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: ajax/search.php:117
+#@ woocommerce-gls-addon
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: ajax/search.php:118
+#@ woocommerce-gls-addon
+msgid "Friday"
+msgstr "Fredag"
+
+#: ajax/search.php:119
+#@ woocommerce-gls-addon
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: ajax/search.php:120
+#@ woocommerce-gls-addon
+msgid "Sunday"
+msgstr "Søndag"
+
+#: class.shipping-method.php:106
+#@ woocommerce-gls-addon
+msgid "Show Shops Opening Hours"
+msgstr "Vis åbningstider på pakkeshops"
+
+#: woocommerce-dynamic-pricing.php:69
+#@ woocommerce-gls-addon
+msgid "Address 1"
+msgstr "Adresse 1"
+
+#: woocommerce-dynamic-pricing.php:77
+#@ woocommerce-gls-addon
+msgid "Address 2"
+msgstr "Adresse 2"
+
+#: woocommerce-dynamic-pricing.php:83
+#: woocommerce-dynamic-pricing.php:84
+#@ woocommerce-gls-addon
+msgid "Postcode"
+msgstr "Postnummer"
+
+#: woocommerce-dynamic-pricing.php:91
+#: woocommerce-dynamic-pricing.php:92
+#@ woocommerce-gls-addon
+msgid "City"
+msgstr "By"
+
+#: class.shipping-method.php:148
+#@ woocommerce-gls-addon
+msgid "Info for generate labels"
+msgstr "Info til generere labels"
+
+#: class.shipping-method.php:150
+#@ woocommerce-gls-addon
+msgid "(this does not work in all contries, as the GLS web API are still new.) Please contact your local GLS sales team to get this info if nedded.  <a href=\"https://gls-group.eu/\" target=\"_blank\">https://gls-group.eu/</a>"
+msgstr "(Dette virker ikke i alle lande, da GLS web API stadig er nyt.) Kontakt dit lokale GLS salgsteam for at få disse info. <a href=\"https://gls-group.eu/\" target=\"_blank\">https://gls-group.eu/</a>"
+
+#: class.shipping-method.php:174
+#@ woocommerce-gls-addon
+msgid "Email Template"
+msgstr "Email Skabelon"
+
+#: class.shipping-method.php:176
+#@ woocommerce-gls-addon
+msgid "When you generate a label, an email are sent to the customer, you can edit the content of the email below."
+msgstr "Når du genererer en label, Sendes der en e-mail til kunden, kan du redigere indholdet af e-mailen nedenfor."
+
+#: class.shipping-method.php:214
+#@ woocommerce-gls-addon
+msgid "Here you can add the countries that your gls option will work in. If a customer choose a country at checkout that are not added here, the gls option will disappear, and they will have to use another shipping option."
+msgstr "Her kan du tilføje de lande, din GLS valgmulighed vil virke i. Hvis en kunde vælger et land ved kassen, der ikke er tilføjet her, vil GLS muligheden forsvinde, og de bliver nødt til at bruge en anden forsendelse mulighed."
+
+#: class.shipping-method.php:217
+#@ woocommerce-gls-addon
+msgid "Shop Countires"
+msgstr "Shop lande"
+
+#: woocommerce-gls-addon.php:486
+#@ woocommerce-gls-addon
+msgid "Please choose another option below, we do not ship to the selected country with GLS"
+msgstr "Vælg venligst en anden valgmulighed nedenfor, vi sender ikke til det valgte land med GLS"
+
+#: class.generate_labels.php:22
+#@ woocommerce-gls-addon
+msgid "You Order Status is Not Completed."
+msgstr "Din ordre status er ikke markert som færdig"
+
+#: class.generate_labels.php:27
+#: class.generate_labels.php:32
+#@ woocommerce-gls-addon
+msgid "Order Shipping Method is not GLS Shop."
+msgstr "Forsendelses metode er ikke GLS"
+
+#: class.shipping-method.php:212
+#@ woocommerce-gls-addon
+msgid "Shop Countries"
+msgstr "Shop Lande"
+
+#. translators: plugin header field 'Version'
+#: woocommerce-gls-addon.php:0
+#@ woocommerce-gls-addon
+msgid "1.3.1"
+msgstr ""
+
